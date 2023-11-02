@@ -15,6 +15,7 @@ si encuentra una no dude en escribirme o al soporte de GitHub
 
 
 
+
 #Usabilidad
 
 La usabilidad y escalabilidad de este software es amplia ya que se podria
@@ -23,6 +24,8 @@ adaptar a distintos entornos y ambientes laborales por lo neutral que es.
 
 
 #Como utilizar?
+
+
 Para la utilizacion de este software es necesario tener unos conocimientos
 si bien te brinda las herramientas para poder hacer lo basico de un login
 debes de haber hecho una investigacion previa de MySQL que es la base de datos
