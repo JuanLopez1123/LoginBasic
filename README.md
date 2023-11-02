@@ -5,6 +5,8 @@ la cual se podra modificar a tu gusto debido a que es una interfaz neutral.
 
 
 #Version
+
+
 Este software ya cuenta con una version 2.0.0-Beta
 ya que ha contado con varios procesos durante su realizacion
 se encuentra en beta por lo cual contara con algunas fallas
